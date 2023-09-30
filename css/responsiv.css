@@ -1,0 +1,864 @@
+
+
+/* Xl Device :1200px. */
+@media (min-width: 1201px) and (max-width: 1500px) {
+    /* header start */
+    .theme-bg-2 {
+
+        margin: 0 34px;
+    }
+    .hero-info ul li {
+        margin-right: 25px;
+    }
+    .hero-info {
+        margin-left: 20px;
+    }
+    .hero-icon.text-end {
+        margin-right: 45px;
+    }
+    /* header end */
+
+
+    /* our trusted area start */
+    .trusted-content {
+        padding-left: 35px;
+    }
+    .our-team-text p {
+        padding: 0px 246px;
+
+    }
+    /* our tursted area end */
+    .team-wrapper {
+        padding: 0 0px;
+    }
+    .single-team .team-icon ul li {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        background: #fff;
+        text-align: center;
+        line-height: 33px;
+        border-radius: 20px;
+        margin: 0 3px;
+        transition: .5s;
+    }
+    .single-team h3 {
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 19px;
+        margin-bottom: 5px;
+    }
+
+}
+
+
+/* lg Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    /* header area start */
+    .theme-bg-2{
+        background: none;
+        margin: 0 0;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+    }
+    .theme-bg-3{
+        background: #292929;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin: 0 0px;
+    }
+    .header-cta {
+        margin-left: 26px;
+    }
+    .main-menu ul li {
+        margin-left: 18px;
+    }
+    /* header area end */
+
+
+    /* slider area start */
+    .banner-content {
+        margin-top: 100px;
+    }
+    .banner-area {
+        min-height: 847px;
+        margin-top: -3px;
+    }
+    .help-right-content {
+        padding-right: 0;
+        margin-top: 60px;
+    }
+    .single-services {
+        padding: 55px 20px;
+    }
+    .trusted-content {
+        padding-left: 0;
+    }
+    .consultency-img img{
+        width: 100%;
+    }
+    .our-team-text p {
+        padding: 0px 80px;
+        margin-bottom: 90px;
+    }
+    .highi {
+        padding: 0 6px;
+    }
+    .col-s {
+        padding-right: 0px;
+    }
+    .request-left-content p {
+        margin-bottom: 51px;
+    }
+    .request-left-content h1 {
+        padding-right: 0;
+    }
+    .request-left-content p {
+        padding-right: 0;
+    }
+    .we-want-text h1 {
+        padding-right: 0;
+        font-size: 50px;
+    }
+    .footer-top {
+        margin-bottom: 30px;
+    }
+   
+    /* slider area end */
+    
+
+    .colsultency a.icon-leftt {
+        bottom: -11.0%;
+        left: 36%;
+    }
+    .colsultency a.icon-rightt {
+        bottom: -11.0%;
+        right: 42%;
+    }
+    /* -------- last finishing */
+    .sevices-shape-2 {
+        width: 150px;
+        height: 150px;
+    }
+    .services-shape {
+        width: 168px;
+        height: 168px;
+    }
+/* ========================= services page */
+    .we-are-ready {
+        padding: 60px 10px;
+    }
+    .service-categroy a h2 {
+        padding: 25px 13px;
+    }
+    .we-are-ready h1 {
+        font-size: 30px;
+    }
+    /* ============================= case details */
+    .case-information-right img {
+        width: 100%;
+    }
+    .error-img img {
+        width: 100%;
+    }
+    .single-team {
+        width: 25%;
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+    .team-wrapper {
+        padding: 0 0px;
+    }
+
+}
+
+ 
+/* md Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    /* hero area start */
+    .theme-bg-2 {
+        background: #292929;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin: 0 0;
+    }
+    .theme-bg-3 {
+        background: #292929;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin: 0 0px;
+    }
+    .logo {
+        margin-top: 25px;
+    }
+    .hero-info ul li {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .hero-icon {
+        margin-top: 26px;
+    }
+    /* stiky start and mobile menu */
+    .header-buttom.sticky.scroll-header {
+        padding-top: 30px;
+    }
+    .mean-container a.meanmenu-reveal {
+
+        margin-top: -33px!important;
+
+    }
+    /* hero area end */
+
+
+
+    /* header area start */
+    .mean-container .mean-bar {
+        background: none;
+    }
+    
+    .mean-container a.meanmenu-reveal{
+        color: #fff;
+        background: #fe6700;
+        text-indent: none;
+        margin-top: -50px;
+        width: 27px;
+        height: 27px;
+    }
+    .mean-container .mean-nav {
+        margin-top: 15px;
+        background: #fe6700;
+    }
+    .header-area {
+        padding-bottom: 0px;
+
+    }
+    /* header area end */
+    /* hero area end */
+
+
+
+    /* main start */
+    .our-team-text p {
+        padding: 0px 0px;
+        margin-bottom: 90px;
+    }
+    .help-right-content {
+        padding-right: 0;
+    }
+    .help-right-content h1 {
+        margin-top: 70px;
+    }
+    .services-content p {
+        padding: 0 50px;
+    }
+    .single-services {
+        padding: 55px 33px;
+        margin-bottom: 30px;
+    }
+    .trusted-content {
+        padding-left: 0;
+    }
+    .trusted-brand .slick-list {
+        margin-right: 134px;
+    }
+    .colsultency a.icon-leftt {
+        left: 38%;
+    }
+    .colsultency a.icon-rightt {
+        right: 38%;
+    }
+    .highi {
+        padding: 0 30px;
+    }
+    .request-left-content p {
+
+        margin-bottom: 61px;
+    }
+    .we-want-text h1 {
+        padding-right: 0;
+        margin-bottom: 50px;
+    }
+    /* main end */
+    /* ------ last finishing */
+    .trusted-brand .slick-list {
+        margin-right: 140px;
+        margin-left: 50px;
+    }
+    .recent-post {
+        padding-right: 0px;
+    }
+    /* ====================== about pages */
+    .finance-right-content {
+        padding-left: 10px;
+    }
+    .finance-right-content h1 {
+        font-size: 32px;
+    }
+    /* ============================ services page */
+    .business-consulting-left-content {
+        margin-bottom: 67px;
+    }
+    /* ============================ case page */
+    .error-img.text-center img {
+        width: 100%;
+    }
+    .related-cases{
+        margin-bottom: 50px;
+    }
+    .case-information-right img {
+        width: 100%;
+    }
+    .case-information-right {
+        margin-left: 0px;
+        margin-top: 70px;
+    }
+    .related-cases-text p {
+        padding: 0 50px;
+    }
+    .planning-management h1 {
+        margin-top: 40px;
+    }
+        .related-cases-content {
+            margin-bottom: 72px;
+    }
+/* ============================ contact page */    
+    .contact-location-area{
+        margin: 50px 0;
+    }
+    .contact-location-right {
+        margin-left: 0px;
+    }
+    .single-team {
+        width: 50%;
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+    .team-wrapper {
+        padding: 0 0px;
+    }
+
+
+}
+
+
+/* SM Device :768px. */
+@media (min-width: 576px) and (max-width: 767px) {
+    /* hero area start */
+    .theme-bg-2 {
+        background: #292929;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin: 0 0;
+    }
+    .theme-bg-3 {
+        background: #292929;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin: 0 0px;
+    }
+    .hero-info ul li {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .hero-icon {
+        margin-top: 26px;
+    }
+    /* stiky start and mobile menu */
+    .header-buttom.sticky.scroll-header {
+        padding-top: 30px;
+    }
+    .mean-container a.meanmenu-reveal {
+
+        margin-top: -33px!important;
+
+    }
+    /* hero area end */
+    .mean-container .mean-bar {
+        background: none;
+    }
+    
+    .mean-container a.meanmenu-reveal{
+        color: #fff;
+        background: #fe6700;
+        text-indent: none;
+        margin-top: -50px;
+        width: 27px;
+        height: 27px;
+    }
+    .mean-container .mean-nav {
+        margin-top: 15px;
+        background: #fe6700;
+    }
+    .header-area {
+        padding-bottom: 0px;
+
+    }
+    .hero-icon ul li {
+        display: inline-block;
+        margin-right: 8px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    .logo {
+        margin-top: 25px;
+    }
+    /* main start */
+    .our-team-text p {
+        padding: 0px 0px;
+        margin-bottom: 90px;
+    }
+    .services-content p {
+        padding: 0 0;
+        margin-bottom: 100px;
+    }
+    .single-services {
+        margin-bottom: 30px;
+    }
+    .help-right-content {
+        padding-right: 0;
+    }
+    .trusted-content {
+        padding-left: 0;
+    }
+    .consultency-text p {
+        padding: 0 0;
+    }
+    .sevices-shape-2 {
+        width: 180px;
+        height: 180px;
+    }
+    .services-shape {
+        width: 200px;
+        height: 200px;
+    }
+    .trusted-brand .slick-list {
+        margin-left: 23px;
+    }
+    .trusted-content h1 {
+        margin-bottom: 26px;
+        font-size: 54px;
+    }
+    .consultency-shape-22 {
+        width: 190px;
+        height: 190px;
+    }
+    .consultency-shapee {
+        width: 200px;
+        height: 200px;
+    }
+    .help-right-content h1 {
+        margin-top: 57px;
+    }
+    .colsultency a.icon-rightt {
+        right: 32%;
+    }
+    .colsultency a.icon-leftt {
+        left: 34%;
+    }
+    .request-left-content p {
+        padding-right: 0;
+        margin-bottom: 37px;
+    }
+    .what-client-text p {
+        padding: 0 21px;
+    }
+    .we-want-text h1 {
+        font-size: 37px;
+        margin-bottom: 40px;
+    }
+    .recent-post {
+        margin-top: 60px;
+    }
+    /* last finishing */
+    .footer-area{
+        padding-top: 50px;
+    }
+    .footer-top {
+        margin-bottom: 50px;
+    }
+    .recent-post h2 {
+        margin-bottom: 8px;
+        color: #fff;
+    }
+    .our-services h2 {
+        margin-bottom: 41px;
+        margin-top: 50px;
+    }
+    /* main end */
+    /* ======================== about pages */
+    .single-finance{
+        justify-content: center;
+    }
+    .finance-right-content {
+        margin-top: 155px;
+        padding-left: 0px;
+        margin-bottom: 40px;
+    }
+    /* ======================== services pages */
+    .business-consulting-left-content {
+        margin-bottom: 67px;
+    }
+    .related-cases{
+        margin-bottom: 0px;
+    }
+    .case-information-right img {
+        width: 100%;
+        margin: 50px 0;
+    }
+    .case-information-right {
+        margin-left: 0px;
+    }
+    .related-cases-text p {
+        padding: 0 0px;
+    }
+    .related-cases-content {
+        margin-bottom: 65px;
+    }
+
+    /* ======================== contact pages */
+    .contact-location-area{
+        margin: 50px 0;
+    }
+    .contact-location-right {
+        margin-left: 0px;
+    }
+    .contact-location-area{
+        margin: 50px 0;
+    }
+    .contact-location-right {
+        margin-left: 0px;
+    }
+    .single-team {
+        width: 50%;
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+    .team-wrapper {
+        padding: 0 0px;
+    }
+
+
+}
+
+
+/* sm Device :320px. */
+@media (max-width: 575px) {
+    .theme-bg-2 {
+        background: #292929;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin: 0 0;
+    }
+    .theme-bg-3 {
+        background: #292929;
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+        margin: 0 0px;
+    }
+    .hero-info ul li {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .hero-icon {
+        margin-top: 26px;
+    }
+    /* stiky start and mobile menu */
+    .header-buttom.sticky.scroll-header {
+        padding-top: 30px;
+    }
+    .mean-container a.meanmenu-reveal {
+
+        margin-top: -33px!important;
+
+    }
+    /* hero area end */
+    .mean-container .mean-bar {
+        background: none;
+    }
+    
+    .mean-container a.meanmenu-reveal{
+        color: #fff;
+        background: #fe6700;
+        text-indent: none;
+        margin-top: -50px;
+        width: 27px;
+        height: 27px;
+    }
+    .mean-container .mean-nav {
+        margin-top: 15px;
+        background: #fe6700;
+    }
+    .banner-area {
+        min-height: 779px;
+        margin-top: -3px;
+    }
+    .banner-content h1 {
+        font-size: 55px;
+        margin-top: 29px;
+        margin-bottom: 39px;
+        line-height: 65px;
+    }
+    .hero-icon ul li {
+        display: inline-block;
+        margin-right: 8px;
+        margin-left: 0;
+        margin-bottom: 20px;
+    }
+    .logo {
+        margin-top: 25px;
+    }
+    /* main start */
+    /* ================= */
+    .help-left-content img {
+        width: 100%;
+    }
+    .services-area {
+        padding-top: 50px;
+    }
+    .single-services h2 {
+        padding-right: 0;
+    }
+    .consultency-text h1 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .our-team-text h1 {
+        font-size: 30px;
+    }
+    .single-services {
+        background: #fff;
+        padding: 37px 10px;
+    }
+    .highi {
+        padding: 0 0;
+    }
+    .request-left-content h1 {
+        padding-right: 0px;
+        font-size: 30px;
+        font-weight: 500;
+    }
+    .what-client-text h1 {
+        font-size: 30px;
+    }
+    /* ================= */
+    .our-team-text p {
+        padding: 0px 0px;
+        margin-bottom: 90px;
+    }
+    .services-content p {
+        padding: 0 0;
+        margin-bottom: 63px;
+    }
+    .single-services {
+        margin-bottom: 30px;
+        background: #fff;
+        padding: 55px 22px;
+    }
+    .help-right-content {
+        padding-right: 0;
+    }
+    .trusted-content {
+        padding-left: 0;
+    }
+    .consultency-text p {
+        padding: 0 0;
+    }
+    .sevices-shape-2 {
+        width: 180px;
+        height: 180px;
+    }
+    .services-shape {
+        width: 200px;
+        height: 200px;
+    }
+    .trusted-brand .slick-list {
+        margin-left: 67px;
+    }
+    .trusted-brand .slick-list {
+        margin-right: 53px;
+    }
+    .trusted-content h1 {
+        margin-bottom: 26px;
+        font-size: 44px;
+    }
+    .consultency-shape-22 {
+        width: 190px;
+        height: 190px;
+    }
+    .consultency-shapee {
+        width: 200px;
+        height: 200px;
+    }
+    .help-right-content h1 {
+        margin-top: 57px;
+        font-size: 34px;
+    }
+    .colsultency a.icon-rightt {
+        right: 28%;
+    }
+    .colsultency a.icon-leftt {
+        left: 29%;
+    }
+    .request-left-content p {
+        padding-right: 0;
+        margin-bottom: 37px;
+    }
+    .what-client-text p {
+        padding: 0 0px;
+    }
+    .we-want-text h1 {
+        font-size: 30px;
+        margin-bottom: 40px;
+        padding-right: 0;
+    }
+    .recent-post {
+        margin-top: 60px;
+    }
+    .request-call-button{
+        text-align: start!important;
+    }
+    .footer-top{
+        margin-bottom: 50px;
+    }
+    .footer-bottom-right{
+        text-align: start!important;
+        margin-top: 30px;
+    }
+    /* ------ finishing */
+    .request-call-shape {
+        width: 100px;
+        height: 100px;
+    }
+    .request-cll-shape-2 {
+        width: 100px;
+        height: 100px;
+    }
+    .request-call-button{
+        text-align: center!important;
+    } 
+    .case-information-right img {
+        width: 100%;
+    }
+    .related-cases-content {
+        margin-bottom: 70px;
+    }
+    .letal-content {
+        padding-right: 0px;
+    }
+    .error-img img {
+        width: 100%;
+    }
+
+    /* ======================== about pages start*/
+    .about-banner-area {
+        min-height: 190px;
+    }
+    .about-banner-content {
+        margin-top: 40px;
+    }
+    .about-banner-content h1 {
+        color: #fff;
+        font-size: 38px;
+    }
+    .about-banner-bg {
+        height: 190px;
+        background: #f78a3469;
+        clip-path: polygon(0 0, 110% 0, 100% 100%, 0% 100%);
+    }
+    .single-finance h1 {
+        font-size: 33px;
+    }
+    .single-finance {
+        height: 90px;
+    }
+    .finance-left-content {
+        padding-bottom: 10px;
+    }
+    .finance-right-content h1{
+        font-size: 30px;
+    }
+    .finance-right-content {
+        margin-top: 50px;
+        padding-left: 0px;
+    }
+    .finance-counter {
+
+        width: 100%;
+    }
+    .single-team-img img {
+        width: 300px;
+    }
+    /* ======================== about pages end*/
+
+
+    /* ======================== sevices page*/
+    .case-information-area{
+        margin-top: 50px;
+    }
+    .business-consulting-area{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .business-consulting-left-content {
+        margin-right: 10px;
+        margin-bottom: 67px;
+    }
+    .consultency-btn-prev {
+        margin-bottom: 30px;
+    }
+    .we-are-ready {
+        padding: 60px 17px;
+    }
+    /* ======================== case page details*/
+    .planning-management h1{
+        font-size: 40px;
+    }
+    .case-information-right {
+        margin-left: 0px;
+    }
+    .related-cases-text h1{
+        font-size: 40px;
+    }
+    .related-cases-text p {
+        padding: 0 0px;
+    }
+
+/* ======================== case page details*/
+    .contact-location-area{
+        margin: 20px 0;
+    }
+    .contact-location-right {
+        margin-left: 0px;
+    }
+    .contact-location-right h1{
+        font-size: 40px;
+    }
+
+    .contact-location-right-button{
+        text-align: center!important;
+        margin-bottom: 50px;
+    }
+    .errow-content{
+        margin-bottom: 50px;
+    }
+    .arror-button {
+        display: none;
+    }
+    .contact-location-area{
+        margin: 50px 0;
+    }
+    .contact-location-right {
+        margin-left: 0px;
+    }
+    .single-team {
+        width: 100%;
+        padding: 0 15px;
+        margin-bottom: 30px;
+    }
+    .team-wrapper {
+        padding: 0 0px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+ 
